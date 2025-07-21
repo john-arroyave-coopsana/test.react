@@ -7,7 +7,7 @@ export default function AdvancedDemo() {
     const header = (
         <img alt="Card"
          src={imagen1}
-         style={{ width: '1200px', height: '780px', objectFit: 'cover'}} />
+         style={{ width: '1210px', height: '780px', objectFit: 'cover'}} />
     );
     const footer = (
         <>
