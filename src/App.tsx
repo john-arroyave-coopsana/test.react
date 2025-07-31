@@ -20,7 +20,7 @@ export default function AdvancedDemo() {
                style={{ marginLeft: '0.5em', backgroundColor: '#1d5f14ff', color: 'white'}}/> 
         </>
     );
-
+//
     return (
         <div className="card flex justify-content-center">
             <Card title="John App"
